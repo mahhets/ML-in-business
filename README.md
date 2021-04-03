@@ -1,2 +1,2 @@
-# ML-in-business
-machine learning in business course
+# NLP ML
+machine learning in business
